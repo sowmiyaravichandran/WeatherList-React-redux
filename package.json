@@ -27,7 +27,7 @@
     "loadash": "^1.0.0",
     "lodash": "^3.10.1",
     "react": "^16.3.2",
-    "react-dom": "16.3.2",
+    "react-dom": "16.13.1",
     "react-google-maps": "^9.4.5",
     "react-redux": "5.0.7",
     "react-sparklines": "^1.7.0",
